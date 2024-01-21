@@ -142,3 +142,4 @@ Styling: Styled components using the React Native StyleSheet API, ensuring a cle
 Enhancements
 Search feature for movies.
 scroll for the movie list.
+# Movie_expolorer
