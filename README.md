@@ -84,8 +84,8 @@ To learn more about React Native, take a look at the following resources:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/movie-explorer.git
-   
+   git clone https://github.com/jasnahassan/movie-explorer.git
+
 Change to the project directory:
 bash
 Copy code
